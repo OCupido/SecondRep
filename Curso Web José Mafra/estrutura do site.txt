@@ -1,0 +1,51 @@
+pg1
+-Logotipo
+-Titulo do site e nome
+-menu de navegação
+-Imagem centralizada e texto formatado com o tema (centralizado)
+-rodapé nome; curso de programação web; ios
+
+pg2
+-menu de navegação
+-seções com bordas (imagem(link: dowload de um documento, video, imagem) dentro de cada seção imagem titulo e texto
+
+pg3 
+-apenas criar link (apenas parte estética)
+
+Entrega:segunda
+
+endereço da imagem da logo do KDA
+https://i.pinimg.com/originals/1c/b2/b6/1cb2b6a3cfcc2dae820eef2cbc39de7b.png
+
+enderço do incon da Evelynn
+https://preview.redd.it/qt1ajytpwws51.png?auto=webp&s=5f0b8e70d5656f08641b82d5cd2bb52555cb3313
+
+enderço do incon da Ahri
+https://preview.redd.it/eo10a5muwws51.png?auto=webp&s=b513fae4289ed471a4ffb0b25e9c5f38c824c90e
+
+enderço do incon da Akali
+https://i.redd.it/jjwhvvdwwws51.png
+
+Endereço do icon da Kaisa
+https://avatarfiles.alphacoders.com/257/thumb-1920-257106.png
+
+Endereço do icon da Seraphine
+https://support-leagueoflegends.riotgames.com/hc/article_attachments/360095343554/Seraphine_Icon_T3.jpg
+
+endereço da imagem principal do site
+https://pbs.twimg.com/media/Eksc-SsW0AMZkLJ?format=jpg&name=4096x4096
+
+endereço da imagem principal 2
+https://i.pinimg.com/originals/63/fa/06/63fa06c598ff812d4b919fd421e5cc26.jpg
+
+
+
+
+
+<fieldset style="border: 4px solid white;"> 
+
+       <center><legend>Evelynn</legend></center>
+        <a href="https://www.youtube.com/watch?v=xoWxv2yZXLQ"><img src="evelynnicon.webp" width="15%" height="15%" style="float:left;">
+        </fieldset>
+   
+    <br>
